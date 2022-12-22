@@ -6,3 +6,4 @@ Só no branch Outlook
 Só no main na conta Outlook
 Criei esta linha no main
 Usuário Outlook no main
+Usuário Gmail no main
