@@ -1,3 +1,4 @@
 Versão inicial
 Editado no branch Outlook
 De novo no Outlook
+Só no branch Outlook
